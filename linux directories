@@ -1,0 +1,8 @@
+pwd:- This command displays information about the current working directory.
+ls:- This command will list all the content of the current working directory.
+ls -a:- The first, -a, will list all files which are hidden. Files can be hidden in the Linux file system if the first character in its name is contains a period.
+ls -l:- Your output for -l is quite different. This flag allows you to list much more information about the content, such as owner and permissions.
+You can execute a combination of the above two flags into one command, which is ls -la
+cd:- change the current working directory to a specified directory.
+mkdir:- Create a directory, using either the relative or absolute path.
+rmdir:- Delete a specified directory given the relative or absolute path.
