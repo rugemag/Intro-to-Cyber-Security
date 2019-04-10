@@ -1,4 +1,11 @@
 Cyberspace is "the notional environment in which communication over computer networks occurs.“
 Computer security, also known as cyber security or IT security, is the protection of computer systems from the theft or damage to their hardware, software or information, as well as from disruption or misdirection of the services they provide.
 The CIA triad; confidentiality, integrity, and availability
-confidentiality:- protecting information
+confidentiality:- protecting information from disclosure to unauthorized entities.
+integrity:- Ensuring that information is not altered accidentally or by entities unauthorized to make alterations. 
+availability:- Ensuring information can be used when and where needed.
+Asset:- money and other valuables belonging to an individual or business
+vulnerability:- A flaw or weakness that allows a threat agent to bypass security.
+botnet:- A logical computer network of zombies under the control of an attacker.
+safeguard:- some measure that individuals or organizations take to block the threat from obtaining the asset.
+exploit:- to make use of a vulnerability to gain access or break some computer system. (n) The means or actual code of which an attacker hacked a system.
