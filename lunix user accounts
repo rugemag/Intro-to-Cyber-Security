@@ -1,0 +1,9 @@
+useradd:- creates a new user account with no other specifications.
+adduser:- create a user account with a password and other information (uses useradd).
+sudo:-(super user do) a program to allow certain, authorized, users to perform sensitive actions.
+passwd:– change the password of a user.
+whoami:- provides you with the name of the current logged in account.
+There are two ways you can logout of an account when you are done:logout or exit
+groupadd:– Create a new group in the system.
+usermod:– Make a change to a user account. Our example above uses flags to add a user to a specific group.
+groups:– View what groups the user is a part of.
